@@ -1,0 +1,25 @@
+{
+  "name": "szhmqd27_node-G",
+  "version": "1.0.0",
+  "description": "深圳黑马前端27期node项目",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeBie233/szhmqd27_node-G.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeBie233/szhmqd27_node-G/issues"
+  },
+  "homepage": "https://github.com/TeBie233/szhmqd27_node-G#readme"
+}
